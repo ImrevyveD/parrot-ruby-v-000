@@ -3,4 +3,4 @@
 def parrot(string="Squawk!")
 end
 puts parrot
-print parrot
+puts parrot("Pretty bird!")
